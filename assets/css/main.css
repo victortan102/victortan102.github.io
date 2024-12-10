@@ -1285,7 +1285,7 @@ section,
   color: white;
   background: rgb(20,157,221);
   border: none;
-  box-shadow: 0 0.7em 1.5em -0.5em rgba(48, 65, 78, 0.527);
+  box-shadow: 0 0.7em 1.5em -0.5em rgba(69, 136, 188, 0.527);
   letter-spacing: 0.05em;
   border-radius: 8px;
   cursor: pointer;
@@ -1298,11 +1298,11 @@ section,
 }
 
 .Download-button:hover {
-  box-shadow: 0 0.5em 1.5em -0.5em rgba(88, 71, 116, 0.627);
+  box-shadow: 0 0.5em 1.5em -0.5em rgba(69, 136, 188, 0.527);
 }
 
 .Download-button:active {
-  box-shadow: 0 0.3em 1em -0.5em rgba(88, 71, 116, 0.627);
+  box-shadow: 0 0.3em 1em -0.5em rgba(69, 136, 188, 0.527);
 }
 
 .Download-button::before {
