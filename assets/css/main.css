@@ -651,10 +651,10 @@ section,
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
-.stats .stats-item {
+/* .stats .stats-item {
   padding: 30px;
   width: 100%;
-}
+} */
 
 /* .stats .stats-item i {
   color: var(--accent-color);
