@@ -1205,6 +1205,12 @@ section,
   margin-bottom: 20px;
 }
 
+.portfolio-details .portfolio-description h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
 .portfolio-details .portfolio-description p,
 .portfolio-details .portfolio-description ul {
   padding: 0;
