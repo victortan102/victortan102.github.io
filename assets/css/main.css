@@ -1205,10 +1205,21 @@ section,
   margin-bottom: 20px;
 }
 
-.portfolio-details .portfolio-description p {
+.portfolio-details .portfolio-description p,
+.portfolio-details .portfolio-description ul {
   padding: 0;
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, var(--default-color), transparent 25%);
 }
+
+#additional-details {
+  padding-top: 0px;
+}
+
+#portfolio-details .portfolio-description ul,
+#additional-details ul {
+    padding-left: 2.5rem;
+}
+
 
 /*--------------------------------------------------------------
 # Service Details Section
