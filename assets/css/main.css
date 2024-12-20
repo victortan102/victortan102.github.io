@@ -1225,9 +1225,10 @@ section,
 }
 
 #portfolio-details .portfolio-description ul,
+#portfolio-details .portfolio-description ol,
 #additional-details ul,
 #additional-details ol {
-    padding-left: 2.5rem;
+  padding-left: 2.5rem;
 }
 
 #additional-details ul li+li, 
